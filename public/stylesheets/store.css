@@ -19,7 +19,9 @@
   vertical-align: middle;
   width: 32%;
   min-width: 100px;
+  max-height: 500px;
   margin: 0 auto;
+  object-fit:scale-down;
 }
 
 .details {
