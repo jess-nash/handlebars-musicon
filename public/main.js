@@ -27,6 +27,12 @@ const context = {
       description: 'Ever thought, "one instrument isn\'t enough?" Find an answer in the drum kit. Coordinate a collections of drums and cymbals to dictate the rhythm of musical masterpiece.',
       price: '$649.00',
       sale: '$349.00'
+    },
+    {
+      image: 'https://images.pexels.com/photos/34221/violin-musical-instrument-music-sound.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      name: 'Violin',
+      description: 'A versatile instrument that is suited for any and all occasions. Those wearing tuxedos can strum together a classic. Others who prefer overalls can call it a fiddle and play some folk songs.',
+      price: '$245.00'
     }
   ]
 };
