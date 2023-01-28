@@ -2,7 +2,7 @@
 
 #introduction {
   text-align: center;
-  margin-top: 10%;
+  margin-top: 8%;
   margin-bottom: 50%;
 }
 
@@ -11,9 +11,10 @@
 }
 
 #introduction p {
-  margin: 10% auto;
+  margin: 10% 10%;
   font-size: 18px;
   font-weight: lighter;
+  line-height: 30px;
 }
 
 #introduction a {
