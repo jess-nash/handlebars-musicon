@@ -1,0 +1,59 @@
+/* Store Page Rulesets */
+
+#showcase {
+  margin-top: 5%;
+  margin-bottom: 15%;
+}
+
+.instrument {
+  width: 90%;
+  overflow: auto;
+
+}
+
+.image {
+  display: inline-block;
+  vertical-align: middle;
+  width: 32%;
+  min-width: 100px;
+  margin: 0 auto;
+}
+
+.details {
+  display: inline-block;
+  vertical-align: middle;
+  width: 60%;
+  margin: -1% auto;
+  padding: 2%;
+}
+
+.name, .description, .price, del {
+  color: #000000;
+  text-align: left;
+}
+
+.description, .price {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.description {
+  height: 100%;
+  font-size: 13px;
+  overflow: auto;
+}
+
+.price {
+  margin: 0;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.sale {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #fa4359;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+}

@@ -1,0 +1,29 @@
+/* Home Page Rulesets */
+
+#introduction {
+
+}
+
+#introduction h1 {
+  font-size: 60px;
+}
+
+#introduction p {
+  margin: 10% auto;
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+#introduction a {
+  display: block;
+  width: 20%;
+  padding: 3% 8%;
+  margin: 0 auto;
+  color: #ffffff;
+  background-color: #4c7ef3;
+  border-radius: 4px;
+}
+
+#introduction a:hover {
+  background-color: #26A69A;
+}

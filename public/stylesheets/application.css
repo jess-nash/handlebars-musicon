@@ -1,0 +1,60 @@
+/* General Rulesets */
+* {
+  color: #ffffff;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+	background: url("https://content.codecademy.com/courses/learn-handlebars/musicon/musicon_bg.png") no-repeat center center fixed;
+  background-size: cover;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+  bottom: 0;
+  position: static;
+}
+
+header {
+  padding-top: 3%;
+  min-height: 70px;
+}
+
+.container {
+
+}
+
+.branding {
+  float: left;
+}
+
+.branding h1 {
+  font-weight: normal;
+}
+
+nav {
+  float: right;
+}
+
+.navbar {
+  margin-top: 15%;
+}
+
+.navbar li {
+  display: inline-block;
+  padding: 0 5px;
+}
+
+.navbar li a {
+  color: rgba(255, 255, 255, 0.8);
+  font-weight: normal;
+}
+
+.navbar li a:hover, .navbar .current a {
+  color: #ffffff;
+}
