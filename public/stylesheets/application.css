@@ -22,11 +22,12 @@ footer {
 
 header {
   padding-top: 3%;
-  min-height: 70px;
+  /* min-height: 70px; */
 }
 
 .container {
-
+  width: 90%;
+  margin: 0 auto;
 }
 
 .branding {
