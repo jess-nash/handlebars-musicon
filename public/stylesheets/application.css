@@ -5,7 +5,7 @@
 
 body {
   font-family: Helvetica, sans-serif;
-	background: url("https://content.codecademy.com/courses/learn-handlebars/musicon/musicon_bg.png") no-repeat center center fixed;
+	background: linear-gradient(rgb(165, 67, 99, .9), rgba(165, 67, 99, 0.2)), url("https://images.pexels.com/photos/417451/pexels-photo-417451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") no-repeat center center fixed;
   background-size: cover;
 }
 
